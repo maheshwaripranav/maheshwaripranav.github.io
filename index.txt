@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Pranav Maheshwari - Personal Website
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
-Web developer
+alt = Pranav Maheshwari
+Pranav Maheshwari
+Researcher
 
 Show Contacts
 
 Email
-richard@example.com
+pranav.maheshwari@students.iiserpune.ac.in
 
 Phone
-+1 (213) 352-2795
++91 9971726470
 
 Birthday
-June 23, 1982
+November 30, 2002
 
 Location
-Sacramento, California, USA
+Pune, Maharashtra, India
 
 # navbar
 
@@ -42,11 +42,11 @@ My job is to build your website so that it is functional and user-friendly but a
 What i'm doing
 
 alt = design icon
-Web design
+Quantum Error Correction
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
-Web development
+Quantum Machine Learning
 High-quality development of sites at the professional level.
 
 alt = mobile app icon
