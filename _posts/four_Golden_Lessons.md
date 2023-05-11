@@ -1,3 +1,6 @@
+layout: page title: "Four Golden Lessons" 
+permalink: /four-golden-lessons
+
 <!DOCTYPE html>
 <html lang="en">
 
