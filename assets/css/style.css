@@ -1409,7 +1409,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* testimonials */
 
-  .testimonials-title { margin-bottom: 25px; }
+  /* .testimonials-title { margin-bottom: 25px; }
 
   .testimonials-list {
     gap: 30px;
@@ -1438,11 +1438,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   .testimonials-text {
     line-clamp: 2;
     -webkit-line-clamp: 2;
-  }
+  } */
 
   /* testimonials modal */
 
-  .modal-container { padding: 20px; }
+  /* .modal-container { padding: 20px; }
 
   .testimonials-modal {
     display: flex;
@@ -1471,10 +1471,10 @@ textarea.form-input::-webkit-resizer { display: none; }
     flex-grow: 1;
     width: 35px;
   }
-
+ */
   /* clients */
 
-  .clients-list {
+  /* .clients-list {
     gap: 50px;
     margin: 0 -30px;
     padding: 45px;
@@ -1482,7 +1482,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   }
 
   .clients-item { min-width: calc(33.33% - 35px); }
-
+ */
 
 
   /**
@@ -1587,12 +1587,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* testimonials modal */
 
-  .testimonials-modal {
+  /* .testimonials-modal {
     gap: 35px;
     max-width: 680px;
   }
 
-  .modal-avatar-box img { width: 80px; }
+  .modal-avatar-box img { width: 80px; } */
 
 
 
@@ -1600,7 +1600,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * PORTFOLIO
    */
 
-  .article-title { padding-bottom: 20px; }
+  /* .article-title { padding-bottom: 20px; }
 
   .filter-select-box { display: none; }
 
@@ -1621,11 +1621,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .filter-item button:hover { color: var(--light-gray-70); }
 
-  .filter-item button.active { color: var(--orange-yellow-crayola); }
+  .filter-item button.active { color: var(--orange-yellow-crayola); } */
 
   /* portfolio and blog grid */
 
-  .project-list, .blog-posts-list { grid-template-columns: 1fr 1fr; }
+  /* .project-list, .blog-posts-list { grid-template-columns: 1fr 1fr; } */
 
 
 
@@ -1733,11 +1733,11 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* testimonials */
 
-  .testimonials-item { min-width: calc(50% - 15px); }
+  /* .testimonials-item { min-width: calc(50% - 15px); } */
 
   /* clients */
 
-  .clients-item { min-width: calc(25% - 38px); }
+  /* .clients-item { min-width: calc(25% - 38px); } */
 
 
 
@@ -1745,7 +1745,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * PORTFOLIO
    */
 
-  .project-list { grid-template-columns: repeat(3, 1fr); }
+  /* .project-list { grid-template-columns: repeat(3, 1fr); } */
 
 
 
