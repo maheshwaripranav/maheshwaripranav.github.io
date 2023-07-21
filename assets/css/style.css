@@ -1246,7 +1246,7 @@ textarea.form-input::-webkit-resizer { display: none; }
    * #PORTFOLIO, BLOG 
    */
 
-  .project-img,
+  /* .project-img { height: auto; } */
   .blog-banner-box { height: auto; }
 
 }
@@ -1505,7 +1505,8 @@ textarea.form-input::-webkit-resizer { display: none; }
    * #PORTFOLIO, BLOG
    */
 
-  .project-img, .blog-banner-box { border-radius: 16px; }
+  /* .project-img { border-radius: 16px; } */
+  .blog-banner-box { border-radius: 16px; }
 
   .blog-posts-list { gap: 30px; }
  
