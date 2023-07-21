@@ -1029,8 +1029,6 @@ main {
 */
 
 
-
-
 /*-----------------------------------*\
   #BLOG
 \*-----------------------------------*/
@@ -1510,7 +1508,7 @@ textarea.form-input::-webkit-resizer { display: none; }
   .project-img, .blog-banner-box { border-radius: 16px; }
 
   .blog-posts-list { gap: 30px; }
-
+ 
   .blog-content { padding: 25px; }
 
 
@@ -1625,7 +1623,8 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   /* portfolio and blog grid */
 
-  /* .project-list, .blog-posts-list { grid-template-columns: 1fr 1fr; } */
+  /* .project-list { grid-template-columns: 1fr 1fr; } */
+  .blog-posts-list { grid-template-columns: 1fr 1fr; }
 
 
 
